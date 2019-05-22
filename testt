@@ -28,7 +28,7 @@
  <?php
     $host = "ystudio.database.windows.net";
     $user = "chyme";
-    $pass = "chyme2723";
+    $pass = "Chyme2723";
     $db = "ystudio";
     try {
         $conn = new PDO("sqlsrv:server = $host; Database = $db", $user, $pass);
